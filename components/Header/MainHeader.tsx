@@ -24,7 +24,7 @@ export const MainHeader: React.FC<MainHeaderProps> = ({ toggleMobileMenu, onNavi
           <div className="bg-bfl-yellow text-bfl-black font-bold text-2xl px-3 py-1 rounded-sm italic border-2 border-bfl-black">
             UG
           </div>
-          <span className="font-bold text-xl hidden lg:block">BRANDS FOR LESS</span>
+          <span className="font-bold text-xl hidden lg:block">USMAN GLOBAL PORTAL</span>
         </a>
 
         {/* Search Bar (Wide Center) */}
