@@ -58,6 +58,6 @@ export const WomenCategoryNavigation: React.FC<WomenCategoryNavigationProps> = (
           )}
         </div>
       </div>
-    </section>
+    </nav>
   );
 };
