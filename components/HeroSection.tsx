@@ -11,10 +11,10 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onNavigate }) => {
       <div className="absolute inset-0 bg-black/10"></div>
       <div className="text-center relative z-10 text-bfl-black">
         <h2 className="text-5xl font-extrabold mb-2 uppercase tracking-tighter">
-          Smile More
+          AFFORD MORE
         </h2>
         <h3 className="text-4xl font-light mb-6 uppercase tracking-widest">
-          Pay Less
+          WORRY LESS
         </h3>
         <div className="flex gap-4 justify-center">
           <button
